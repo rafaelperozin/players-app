@@ -1,4 +1,5 @@
 export class Player {
+    guid: any;
     age: number;
     yellowCards: number;
     redCards: number;
