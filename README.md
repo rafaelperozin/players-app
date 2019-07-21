@@ -14,9 +14,9 @@ I created an API with ExpressJS to return a JSON data to an Angular App that lis
 * RXJS
 
 ## Angular App
-Look the [readme](https://github.com/rafaelperozin/players-app/AngularApp) file on Angular App folder to know how to install and use the app.
+Look the [readme](https://github.com/rafaelperozin/players-app/tree/master/AngularApp) file on Angular App folder to know how to install and use the app.
 
 ## API
-Look the [readme](https://github.com/rafaelperozin/players-app/ExpressServer) file on ExpressServer folder to know how to install and use the API.
+Look the [readme](https://github.com/rafaelperozin/players-app/tree/master/ExpressServer) file on ExpressServer folder to know how to install and use the API.
 
-![Angular Player App Screenshot](https://github.com/rafaelperozin/players-app/player-app-screenshot.png)
+![Angular Player App Screenshot](https://github.com/rafaelperozin/players-app/blob/master/player-app-screenshot.png){:width="600px"}
