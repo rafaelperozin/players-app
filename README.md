@@ -19,4 +19,4 @@ Look the [readme](https://github.com/rafaelperozin/players-app/tree/master/Angul
 ## API
 Look the [readme](https://github.com/rafaelperozin/players-app/tree/master/ExpressServer) file on ExpressServer folder to know how to install and use the API.
 
-![Angular Player App Screenshot](https://github.com/rafaelperozin/players-app/blob/master/player-app-screenshot.png){:width="600px"}
+![Angular Player App Screenshot](https://github.com/rafaelperozin/players-app/blob/master/player-app-screenshot.png)
