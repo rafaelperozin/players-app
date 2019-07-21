@@ -13,9 +13,8 @@ node server.js
 
 ## Check API running
 After running the server.js go to your browser and access:
-```
 [localhost:3000/api/players + parameters](http://localhost:3000/api/players?limit=10&offset=0&search=)
-```
+
 ### Aceptable parameter:
 * limit: number
 * offset: number
