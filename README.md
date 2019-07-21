@@ -14,6 +14,7 @@ I created an API with ExpressJS to return a JSON data to an Angular App that lis
 * RXJS
 
 ## STEP BY STEP
+Follow the steps below to run the project on your computer.
 1. Clone the repository
 2. In the ExpressServer folder run ``` npm install ```
 3. In the AngularApp folder run ``` npm install ```
