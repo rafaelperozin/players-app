@@ -32,11 +32,8 @@ export class AppComponent implements OnInit {
     this.order = value;
   }
 
-  filterPlayers(searchTerm: any){
-    this.dataService.getPlayer()
-        .subscribe(data => this.players$ = data.filter(element => {
-          return element.name.includes(searchTerm) || element.team.name.includes(searchTerm);
-        }));
+  filterPlayers(searchTerm: string): void {
+    this.dataService.getPlayersFiltered(searchTerm).subscribe(data => this.players$ = data);
     this.countPlayers();
   }
   
