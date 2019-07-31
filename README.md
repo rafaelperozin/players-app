@@ -1,6 +1,8 @@
 # Players App
 I created an API with ExpressJS to return a JSON data to an Angular App that list football players.
 
+![Angular Player App Screenshot](https://github.com/rafaelperozin/players-app/blob/master/player-app-screenshot.png)
+
 ### The app main features:
 * Filter searching by name or team
 * Pagination
@@ -27,5 +29,3 @@ Look the [readme](https://github.com/rafaelperozin/players-app/tree/master/Angul
 
 ## API
 Look the [readme](https://github.com/rafaelperozin/players-app/tree/master/ExpressServer) file on ExpressServer folder to know how to install and use the API.
-
-![Angular Player App Screenshot](https://github.com/rafaelperozin/players-app/blob/master/player-app-screenshot.png)
